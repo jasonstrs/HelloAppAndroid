@@ -3,4 +3,6 @@
     <string name="hello_app">Hello App !</string>
     <string name="name">Name</string>
     <string name="ok">OK</string>
+    <string name="compte">Compte</string>
+    <string name="preferences">Préférences</string>
 </resources>
